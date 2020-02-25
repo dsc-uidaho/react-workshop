@@ -1,4 +1,5 @@
 import React from 'react';
+import Placeholder from '../../placeholder';
 
 // Exercise: Create a react class that displays `Hello World!`
 // name the class WelcomeClass
@@ -7,7 +8,7 @@ import React from 'react';
 // code here
 
 
-
+const WelcomeClass = Placeholder;
 
 
 

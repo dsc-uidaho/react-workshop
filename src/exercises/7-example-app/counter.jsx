@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Placeholder from '../../placeholder';
 
 
 // Exercise: Create a counter  component that has the following specifications:
@@ -11,5 +12,6 @@ import React, { useState } from 'react';
 // code here
 
 
+const Counter = Placeholder;
 
 export default Counter;

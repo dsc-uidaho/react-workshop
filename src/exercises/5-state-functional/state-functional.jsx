@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Placeholder from '../../placeholder';
 
 // Exercise: convert the react class component below to a functional class component
 //           name the component CheckboxFunctional
@@ -34,5 +35,6 @@ class CheckboxClass extends React.Component {
 // code here
 
 
+const CheckboxFunctional = Placeholder;
 
 export default CheckboxFunctional;
